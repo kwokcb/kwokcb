@@ -4,6 +4,6 @@
 connections to OCIO (colour management), deployment (Khronos glTF and and Pixar USD).    
 - 🌱 I’m currently learning: how to make an design driven open source cooking project...
 - 👯 I’m looking to collaborate on publishing learnings about open source and open standards.
-- 💬 Ask me about stuff related software engineering, design / architacture, project management, open source / standards. 
+- 💬 Ask me about stuff related to software engineering, design / architacture, project management, remote working, open source / standards. 
 - 📫 How to reach me: LinkedIn is always a good place or via my project pages
 - ⚡ Fun fact: Started out working on modeling tools for Super Mario 64.
