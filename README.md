@@ -1,36 +1,24 @@
-## You've reached the home of Bernard Kwok
+## Retired Rendering Guy
 
-- 🔭 I’m currently open for work on open source projects. The Academy Software Foundation material standard: [MaterialX](https://materialx.org/) is my primary focus along with
-it's interrelation with industry standards: [Khronos glTF](https://www.khronos.org/gltf/) and [Pixar USD](https://graphics.pixar.com/usd/release/index.html). Also of focus is MaterialX's interlation with standards such as OCIO (colour management),
-and shading languages: OSL (Open Shading Language), MDL, and GLSL for both desktop and web rendering. 
-  
-- Related connections includes: 
-   - [Academy Software Foundation MaterialX](https://github.com/materialx/MaterialX/): Specification updates, core logic, infrastructure, and shader generation.
-   - [Khronos glTF and MaterialX](https://github.com/kwokcb/glTF_MaterialX): glTF interop and extensions to connect this with MaterialX found.
-<img src="https://github.com/kwokcb/kwokcb/assets/49369885/a244f723-318b-4bdf-9964-cb4ad7b4a1ce" width="30%"> <img src="https://github.com/kwokcb/kwokcb/assets/49369885/7aa55c9f-7630-4b3b-a92e-ae762dbf9e4c" width="50%">
-   - [MaterialX Learn <img src="https://github.com/kwokcb/kwokcb/assets/49369885/538c85e9-b867-49df-ab79-c9b1cfef24db" width="5%">](https://kwokcb.github.io/MaterialX_Learn/): Complimentary site for utilities and learning about MaterialX.
-     <img src="https://github.com/kwokcb/kwokcb/assets/49369885/3c9e5d65-32f1-4c0f-b8aa-85596fd8ec1d" width="80%"> 
+### Open Standards Contributor
 
-   - [Autodesk Fork of MaterialX](https://github.com/autodesk-forks/MaterialX/): Work as technical lead for MaterialX within Autodesk. (sampling)<table>
-<tr>
-<td><img src="https://github.com/kwokcb/kwokcb/assets/49369885/bfadb3c3-22e8-4117-9955-daeb63796cc0" width="85%">
-</td><td>
-  <img src="https://github.com/kwokcb/kwokcb/assets/49369885/787ba686-4059-47dd-a3e2-710015299400" width="85%">
-<!-- "https://github.com/kwokcb/kwokcb/assets/49369885/c24416e1-74d9-4a1f-af09-7fb65957981b" --> 
-  
-</td>
-</tr>
-  <tr>
-<td><img src="https://github.com/kwokcb/kwokcb/assets/49369885/f589f900-61bc-43d7-bc27-e93348af0381" width="90%">
-</td><td><img src="https://github.com/kwokcb/kwokcb/assets/49369885/18290a6f-5425-4329-b97b-29f49b0845f2" width=85%">
-  </td>
-  </tr>
-</table>
+Find me on <a href=https://academysoftwarefdn.slack.com/team/U0281TX9VRP>Slack</a>, where I'm still active
+in these areas:
 
+| | |
+| :--: | :--: |
+| <img src="https://materialx.org/images/MaterialXLogoSmallA.png" width="128px"> | Academy Software Foundation (AWSF) TSC [MaterialX](https://materialx.org/) member |
+| <img src="https://avatars.githubusercontent.com/u/1608701?s=200&v=4" width="128px"> | Khronos [glTF PBR](https://github.com/KhronosGroup) member |
+| <img src="https://openusd.org/release/api/USDLogoLrgWithAlpha.png" width="128px"> | OpenUSD / MaterialX interop contributor |
 
-   - [Autodesk Standard Surface](https://github.com/Autodesk/standard-surface/): Core definition updates.
-- Some industry presentations can be found on the main [MaterialX site](https://materialx.org/)
+### Repositories
 
-- 💬 Feel free to connect with me for areas such as: software engineering, design / architacture, project management, remote working, open source / standards. 
-- 📫 See my profile and updates on [LinkedIn](https://www.linkedin.com/in/bernard-cb-kwok/). 
+Active repo contributions...
 
+| | |
+| :--: | :--: |
+| <img src="https://kwokcb.github.io/MaterialXLab/documents/icons/teapot_logo.svg" width="128px"> <img width="128px" alt="image" src="https://github.com/user-attachments/assets/a9dff985-4f40-4a00-8086-bd8a2171fcf6" /> | [MaterialX learning and tooling site](https://kwokcb.github.io/MaterialXLab/) |
+| <img src="https://kwokcb.github.io/MaterialXLab/javascript/docs/images/hatch_boat_2_test.png" width="128px"> | <a href="https://kwokcb.github.io/MaterialXLab/javascript/shader_utilities/dist/index_out.html">MaterialX Code generation</a> |
+| <img src="https://kwokcb.github.io/MaterialXLab/javascript/docs/images/shader_graph_snapshot_test.png" width="128px">| <a href="https://kwokcb.github.io/MaterialXLab/javascript/shader_editor/dist/index_out.html">MaterialX Shader graph building</a> |
+| <img width="128PX" alt="image" src="https://github.com/user-attachments/assets/89573283-3129-4ed2-a572-833eb88d8ced" /> | <a href="https://kwokcb.github.io/materialxMaterials/">Material Libraries (GPUOpen, PolyHaven, ambientCG, and PhysicallBased</a> |
+| <img width="128" height="" alt="image" src="https://github.com/user-attachments/assets/e00a0bc4-c94c-43d6-b4db-9dd9a1bd258f" /> | <a href="https://kwokcb.github.io/materialxWeb/">Web utilities. Including Flask apps.</a>
