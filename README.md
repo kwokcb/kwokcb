@@ -7,7 +7,7 @@ in these areas:
 
 | | |
 | :--: | :--: |
-| <img src="https://materialx.org/images/MaterialXLogoSmallA.png" width="128px"> | Academy Software Foundation (AWSF) TSC [MaterialX](https://materialx.org/) member |
+| <img src="https://materialx.org/images/MaterialXLogoSmallA.png" width="128px"> | Academy Software Foundation (AWSF) TSC [MaterialX](https://github.com/AcademySoftwareFoundation/MaterialX) member / contributor |
 | <img src="https://avatars.githubusercontent.com/u/1608701?s=200&v=4" width="128px"> | Khronos [glTF PBR](https://github.com/KhronosGroup) member |
 | <img src="https://openusd.org/release/api/USDLogoLrgWithAlpha.png" width="128px"> | OpenUSD / MaterialX interop contributor |
 
