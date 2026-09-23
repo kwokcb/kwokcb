@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 900 190"
+     width="900"
+     height="190">
+
+  <defs>
+    <radialGradient id="shaderBall" cx="30%" cy="25%" r="75%">
+      <stop offset="0%"   stop-color="#FFFFFF"/>
+      <stop offset="22%"  stop-color="#7DE0DC"/>
+      <stop offset="52%"  stop-color="#20A6A8"/>
+      <stop offset="76%"  stop-color="#7357A6"/>
+      <stop offset="100%" stop-color="#D84D8B"/>
+    </radialGradient>
+  </defs>
+
+  <!-- slx -->
+  <text x="0" y="145"
+        font-family="SFMono-Regular,Consolas,monospace"
+        font-size="145"
+        font-weight="600"
+        fill="#20A6A8">slx</text>
+
+  <!-- opening parenthesis -->
+  <text x="240" y="145"
+        font-family="SFMono-Regular,Consolas,monospace"
+        font-size="145"
+        fill="#D84D8B">(</text>
+
+  <!-- shader ball -->
+  <circle cx="380" cy="95" r="65"
+          fill="url(#shaderBall)"/>
+
+  <!-- closing parenthesis -->
+  <text x="440" y="145"
+        font-family="SFMono-Regular,Consolas,monospace"
+        font-size="145"
+        fill="#D84D8B">)</text>
+
+</svg>
